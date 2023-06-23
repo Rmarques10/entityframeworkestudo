@@ -1,0 +1,17 @@
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Dal.SqlServer.deps.json
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Dal.SqlServer.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Dal.SqlServer.dll
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Dal.SqlServer.pdb
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Model.dll
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\bin\Debug\net6.0\Model.pdb
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.csproj.CopyComplete
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.dll
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\refint\Dal.SqlServer.dll
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.pdb
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\Dal.SqlServer.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\EntityFrameworkEstudo\Dal.SqlServer\obj\Debug\net6.0\ref\Dal.SqlServer.dll
